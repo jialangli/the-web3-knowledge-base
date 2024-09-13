@@ -4,3 +4,17 @@
 - blockchain-course: https://github.com/the-web3/blockchain-course
 - DeFiHackLabs: https://github.com/SunWeb3Sec/DeFiHackLabs
 - 计算机网络图解：https://xiaolincoding.com/network/
+- 计算机网络视频：https://www.bilibili.com/video/BV1NT411g7n6/?share_source=copy_web&vd_source=6dc77b7ce1aca271a38bbd32f06a0a97
+- 数据结构与算法图解基础：https://www.hello-algo.com/
+- 数据结构与算法动画可视化：https://visualgo.net/en
+- 前端精灵图快速定位工具：http://www.spritecow.com/
+- 开发人员路线图：https://roadmap.sh/
+- 免费在线流程图：https://www.processon.com/
+- Web3招聘网站：https://web3.career/
+- 留学参考手册：https://sustech-application.com/#/
+- CS自学手册：https://csdiy.wiki/
+- 前端基础 https://www.bilibili.com/video/BV14J4114768/?share_source=copy_web&vd_source=6dc77b7ce1aca271a38bbd32f06a0a97
+- GitHub使用基础教程：https://www.bilibili.com/video/BV1hS4y1S7wL/?share_source=copy_web&vd_source=6dc77b7ce1aca271a38bbd32f06a0a97
+- 直观明了地分享数学之美（3Blue1Brown）： https://space.bilibili.com/88461692/?spm_id_from=333.999.0.0
+- 计算机导论：https://www.bilibili.com/video/BV1EW411u7th/?share_source=copy_web&vd_source=6dc77b7ce1aca271a38bbd32f06a0a97
+- 【Vue3 + vite + Ts + pinia + 实战 + 源码 + electron】 https://www.bilibili.com/video/BV1dS4y1y7vd/?share_source=copy_web&vd_source=6dc77b7ce1aca271a38bbd32f06a0a97
